@@ -24,7 +24,7 @@ Nous avons mis en place un système de gestion des exceptions pour traiter diver
 
 ### 5. Mappers
 
-Un mapper (BankAccountMapperImpl) a été créé pour assurer la conversion des objets entité en objets DTO et vice versa.
+Un mapper (BankAccountMapperImpl) a été créé pour assurer la conversion des objets entité en objets DTO .
 
 ### 6. Services
 
