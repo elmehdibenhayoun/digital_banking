@@ -33,6 +33,7 @@ Le service (BankAccountServiceImpl) encapsule la logique métier liée aux opér
 ### 7. Sécurité
 
 La sécurité de l'application a été renforcée grâce à la configuration de Spring Security. Les classes SecurityConfig et SecurityController ont été mises en place pour gérer l'authentification et l'autorisation des utilisateurs.
+![Gestion des Produits](https://github.com/elmehdibenhayoun/digital_banking/blob/main/captures/test.png)
 
 ### 8. Partie Web
 
